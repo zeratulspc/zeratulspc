@@ -1,5 +1,5 @@
-<h1 align="center">Hello!👋 I'm Developer Minjae</h1>
-<h3 align="center">A passionate Developer from Korea</h3>
+<h1 align="center">안녕하세요! 개발자 민재입니다</h1>
+<h3 align="center">더 나은것을 만들자, Harder Better Faster Stronger</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeratulspc&label=Profile%20views&color=0e75b6&style=flat" alt="zeratulspc" /> </p>
 
